@@ -4,7 +4,7 @@ I'm Joaquin Trujillo, a Web Application Developer based in Madrid. Always practi
 Currently specializing in React and Node.js.
 
 ## Tech learnings 🛠️
-- Backend: PHP <img style="aspect-ratio: 1/1; width: 20px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" />, Node.js <img style="aspect-ratio: 1/1; width: 20px;" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" />
+- Backend: PHP <img style="aspect-ratio: 1/1; width: 25px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" />, Node.js <img style="aspect-ratio: 1/1; width: 20px;" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" />
 <!--
 **forjoa/forjoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
