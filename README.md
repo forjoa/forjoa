@@ -1,3 +1,5 @@
+<img src="https://media.canva.com/1/image-resize/1/800_547_92_JPG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9hMjdyOC9NQUZ3YTBhMjdyOC8xL3AuanBn?osig=AAAAAAAAAAAAAAAAAAAAAHvGDlQcCNGpbRO3SvUTcU-QN5l1UHpSMSd2giPXNdVW&exp=1696549909&x-canva-quality=screen&csig=AAAAAAAAAAAAAAAAAAAAAIGTBaXK-oN-SB0M1bowsZ_MYl2tck93L3eqfgXIbLzc" style="width: 100%;"/>
+
 Hi everyone 👋!
 
 I'm Joaquin Trujillo, a Web Application Developer based in Madrid. Always practicing by making my own projects because "the best way to learn to code, is coding!". 💻
