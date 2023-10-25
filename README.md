@@ -1,4 +1,4 @@
-<img src="https://media.canva.com/1/image-resize/1/800_547_92_JPG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9hMjdyOC9NQUZ3YTBhMjdyOC8xL3AuanBn?osig=AAAAAAAAAAAAAAAAAAAAAHvGDlQcCNGpbRO3SvUTcU-QN5l1UHpSMSd2giPXNdVW&exp=1696549909&x-canva-quality=screen&csig=AAAAAAAAAAAAAAAAAAAAAIGTBaXK-oN-SB0M1bowsZ_MYl2tck93L3eqfgXIbLzc" style="width: 100%;"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/045/654/474/original/mustafa-cerci-yeni-abonef2004-alpha.gif?1643219590" style="width: 100%; display: block; margin: auto; "/>
 
 Hi everyone 👋!
 
