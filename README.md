@@ -3,7 +3,7 @@
 # Hi everyone 👋!
 
 I'm Joaquin Trujillo, a Web Application Developer based in Madrid. Always practicing by making my own projects because "the best way to learn to code, is coding!". 💻
-Currently specializing in React and Node.js.
+Currently specializing in React, Node.js and Next.js.
 
 ## My portfolio 👜
 https://joa-dev-portfolio.vercel.app/
