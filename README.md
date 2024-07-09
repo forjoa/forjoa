@@ -11,7 +11,7 @@ https://joa-dev-portfolio.vercel.app/
 
 ## Tech learnings 🛠️
 
-- <p style="height: 30px ;display: flex; align-items: center;">Backend: Node.js&nbsp;<img style="aspect-ratio: 1/1; width: 16px;" src="./icons/nodedotjs.svg" />, Express&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/express.svg" /></p>
+- <p style="height: 30px ;display: flex; align-items: center;">Backend: Node.js&nbsp;<img style="aspect-ratio: 1/1; width: 16px;" src="./icons/nodedotjs.svg" />, Express&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/express.svg" />, Spring&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/spring.svg" /></p>
 - <p style="display: flex; align-items: center;">Frontend: React&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/react.svg" />, HTML5&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/html5.svg"/>, CSS3&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/css3.svg"/>, Tailwind&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/tailwindcss.svg"/></p>
 - <p style="display: flex; align-items: center;">Database: MySQL&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/mysql.svg" />, PostgreSQL&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/postgresql.svg" />, Supabase&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/supabase.svg" /></p>
 - <p style="display: flex; align-items: center;">Fullstack: Next.js&nbsp;<img style="aspect-ratio: 1/1; width: 22px;" src="./icons/nextdotjs.svg" /></p>
